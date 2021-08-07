@@ -161,6 +161,6 @@ p{
   .title-image{
     position: static;
     transform: rotate(0);
-    width: 50%;
+    size: 70%;
   }
 }
